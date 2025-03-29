@@ -50,9 +50,9 @@ TagManager:
   - name: middle
     uniqueID: 4078212087
     locked: 0
-  - name: alwaysabove
-    uniqueID: 4067482227
-    locked: 0
   - name: player
     uniqueID: 2245673293
+    locked: 0
+  - name: alwaysabove
+    uniqueID: 4067482227
     locked: 0
